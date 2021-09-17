@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF" alt="GitHub Streak">
 </p>
 
 
