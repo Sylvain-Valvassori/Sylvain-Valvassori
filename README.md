@@ -1,4 +1,4 @@
-![alt text](https://{miro.medium.com/max/2400/0*JKyzq_e9TUlb84wX} “add your alt text”)
+![alt text](https://miro.medium.com/max/2400/0*JKyzq_e9TUlb84wX} “add your alt text”)
 
 
 
