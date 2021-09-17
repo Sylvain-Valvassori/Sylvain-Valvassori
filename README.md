@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img width="200" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF)](https://git.io/streak-stats)" alt="Material Bread logo">
+  <img width="200" src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF)" alt="">
 </p>
 
 
