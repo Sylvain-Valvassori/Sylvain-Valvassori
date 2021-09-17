@@ -1,5 +1,8 @@
-<p>
+<p display="inline-block">
   <img width="50%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Sylvain-Valvassori&show_icons=true&theme=react" alt="GitHub Streak">
+</p>
+
+<p display="inline-block">
   <img width="50%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvain-Valvassori&layout=compact&theme=react" alt="GitHub Streak">
 </p>
 <p align="center">
@@ -8,5 +11,3 @@
 
 
 
-
-f
