@@ -1,2 +1,13 @@
+![alt text](https://{insert your image URL} “add your alt text”)
+<img src=”Pen Tablet Render_1.jpg” alt=”alt text” width=”200"/>
+
+
+
+
+
+
+
+
+
 
 ![Sylvain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylvain-Valvassori&show_icons=true&theme=react)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvain-Valvassori&langs_count=10&theme=react)
