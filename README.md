@@ -6,7 +6,9 @@
 
 
 <p align="center">
-  <img width="200" src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF)" alt="">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF)
+  
 </p>
 
 
