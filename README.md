@@ -9,4 +9,4 @@
 <p align="center">
   <img width="460" height="300" src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF)">
 </p>
--> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF) <-
+->![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF)<-
