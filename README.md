@@ -9,7 +9,7 @@
 
 <br>
 
-### Here you will find all my projects realized during my training as a junior web developer at [Becode](https://becode.org/). but also all my evolution since my beginnings on Github.
+### Here you will find all my projects realized during my training as a junior web developer at [Becode](https://becode.org/) but also all my evolution since my beginnings on Github.
 
 
 <br>
@@ -39,6 +39,8 @@
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvain-Valvassori&layout=compact&theme=react" alt="GitHub Streak">
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF" alt="GitHub Streak">
 </p>
+
+## These are my projects
 
 
 
