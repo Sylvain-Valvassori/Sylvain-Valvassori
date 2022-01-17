@@ -88,7 +88,7 @@
 
 
  
-<table border="0">
+<table border="none">
 <tr>
 <td>
      
