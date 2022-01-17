@@ -25,7 +25,7 @@
 <img  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="GitHub Streak">
 <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="GitHub Streak">
 </p>
-<h3 align="center">I have some knowledge in these languages</h3>
+<!-- <h3 align="center">I have some knowledge in these languages</h3> -->
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="GitHub Streak">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="GitHub Streak">
@@ -35,116 +35,36 @@
 ## Here is some stats
 
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Sylvain-Valvassori&show_icons=true&theme=react" alt="GitHub Streak">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvain-Valvassori&layout=compact&theme=react" alt="GitHub Streak">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Sylvain-Valvassori&show_icons=true&theme=react" alt="GitHub Streak">
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvain-Valvassori&layout=compact&theme=react" alt="GitHub Streak">
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF" alt="GitHub Streak">
 </p>
 
 ## These are my projects
  
-#### React
-| name | link |last update |
-| --------------- | --------------- | --------------- |
-| Woodstock | [Repo](https://github.com/Sylvain-Valvassori/woodstock)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/woodstock/) | 13/01/2022 |
+### React
+Woodstock &nbsp; |&nbsp; [Repo](https://github.com/Sylvain-Valvassori/woodstock)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/woodstock/)&nbsp; |&nbsp; last release: 13/01/2022 
 
                          
-#### Javascript
-| name | link |last update |
-| --------------- | --------------- | --------------- |
-| Quote Random | [Repo](https://github.com/Sylvain-Valvassori/Quote-random)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Quote-random/) | 13/01/2022 |
+### Javascript
+Quote Random &nbsp; |&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Quote-random)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Quote-random/)&nbsp; |&nbsp; 13/01/2022
+&nbsp;
+### Html & Sass & Canvas
 
- 
-#### Html & Sass & Canvas
-| name | link |last update |
-| --------------- | --------------- | --------------- |
-| Ghost clicker | [Repo](https://github.com/WilliamLoey/Cookie-Clicker)&nbsp; /&nbsp; [Site](https://williamloey.github.io/Cookie-Clicker/) | 20/10/2021 |
-| Pew Pew | [Repo](https://github.com/Sylvain-Valvassori/Pew-Pew)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Pew-Pew/) | 15/10/2021 |
-| Hangman | [Repo](https://github.com/Sylvain-Valvassori/Hangman)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Hangman/) | 01/10/2021 |
-| Bounce balls | [Repo](https://github.com/Sylvain-Valvassori/Bounce-Balls)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Bounce-Balls/) | 02/09/2021 |
-| Star Wars | [Repo](https://github.com/Sylvain-Valvassori/Star-Wars-crawl)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Star-Wars-crawl/) | 08/09/2021 |
-| Sass Card | [Repo](https://github.com/Sylvain-Valvassori/Sass-Card)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Sass-Card/) | 03/09/2021 |
-| Play Sass | [Repo](https://github.com/Sylvain-Valvassori/Play-Sass)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Play-Sass/) | 02/09/2021 |
-| My resume with css grid | [Repo](https://github.com/Sylvain-Valvassori/My-CV)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/My-CV/) | 01/09/2021 |
-| Active collab clone | [Repo](https://github.com/Sylvain-Valvassori/Active-collab-clone)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Active-collab-clone/) | 28/08/2021 |
+Ghost clicker&nbsp; |&nbsp; [Repo](https://github.com/WilliamLoey/Cookie-Clicker)&nbsp; /&nbsp; [Site](https://williamloey.github.io/Cookie-Clicker/)&nbsp; |&nbsp; last release: 20/10/2021 <br>
+Pew Pew&nbsp; |&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Pew-Pew)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Pew-Pew/)&nbsp; |&nbsp; last release: 15/10/2021 <br>
+Hangman&nbsp; |&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Hangman)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Hangman/)&nbsp; |&nbsp; last release: 01/10/2021 <br>
+Bounce balls&nbsp; |&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Bounce-Balls)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Bounce-Balls/)&nbsp; |&nbsp; last release: 02/09/2021 <br>
+Star Wars&nbsp; |&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Star-Wars-crawl)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Star-Wars-crawl/) | last release: 08/09/2021 <br>
+Sass Card&nbsp; |&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Sass-Card)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Sass-Card/)&nbsp; |&nbsp; last release: 03/09/2021 <br>
+Play Sass&nbsp; |&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Play-Sass)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Play-Sass/)&nbsp; |&nbsp; last release: 02/09/2021 <br>
+My resume with css grid&nbsp; |&nbsp; [Repo](https://github.com/Sylvain-Valvassori/My-CV)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/My-CV/)&nbsp; |&nbsp; last release: 01/09/2021 <br>
+Active collab clone&nbsp; |&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Active-collab-clone)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Active-collab-clone/)&nbsp; |&nbsp; last release: 28/08/2021 <br>
 
-#### PHP
-| name | link |last update |
-| --------------- | --------------- | --------------- |
-| Cogip |  [Repo](https://github.com/Sylvain-Valvassori/Cogip)&nbsp; /&nbsp; [Site]() | 10/12/2021 |
-| Challenge Form |  [Repo](https://github.com/Sylvain-Valvassori/Challenge-Form)&nbsp; /&nbsp; [Site]() | 19/11/2021 |
+### PHP
+Cogip&nbsp; |&nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Cogip)&nbsp; /&nbsp; [Site]()&nbsp; |&nbsp; last release: 10/12/2021 
+Challenge Form&nbsp; |&nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Challenge-For&nbsp;m)&nbsp; /&nbsp; [Site]()&nbsp; |&nbsp; last release: 19/11/2021 
 
 
-#### Node.js & MangoDB
-| name | link |last update |
-| --------------- | --------------- | --------------- |
-| Chat room |  [Repo](https://github.com/SalukiMakingCode/chat-Node)&nbsp; /&nbsp; [Site]() | 24/12/2021 |
-
-
-
-
-<br>
-<hr>
-<br>
-
-
- 
-<table border="none">
-<tr>
-<td>
-     
-#### React
-| name | link |last update |
-| --------------- | --------------- | --------------- |
-| Woodstock | [Repo](https://github.com/Sylvain-Valvassori/woodstock)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/woodstock/) | 13/01/2022 |
-</td>
-<td>
-  
-#### Javascript
-| name | link |last update |
-| --------------- | --------------- | --------------- |
-| Quote Random | [Repo](https://github.com/Sylvain-Valvassori/Quote-random)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Quote-random/) | 13/01/2022 |
-</td>
-</tr>
-    <tr>
-    <td>
-     
-#### Html & Sass & Canvas
-| name | link |last update |
-| --------------- | --------------- | --------------- |
-| Ghost clicker | [Repo](https://github.com/WilliamLoey/Cookie-Clicker)&nbsp; /&nbsp; [Site](https://williamloey.github.io/Cookie-Clicker/) | 20/10/2021 |
-| Pew Pew | [Repo](https://github.com/Sylvain-Valvassori/Pew-Pew)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Pew-Pew/) | 15/10/2021 |
-| Hangman | [Repo](https://github.com/Sylvain-Valvassori/Hangman)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Hangman/) | 01/10/2021 |
-| Bounce balls | [Repo](https://github.com/Sylvain-Valvassori/Bounce-Balls)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Bounce-Balls/) | 02/09/2021 |
-| Star Wars | [Repo](https://github.com/Sylvain-Valvassori/Star-Wars-crawl)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Star-Wars-crawl/) | 08/09/2021 |
-| Sass Card | [Repo](https://github.com/Sylvain-Valvassori/Sass-Card)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Sass-Card/) | 03/09/2021 |
-| Play Sass | [Repo](https://github.com/Sylvain-Valvassori/Play-Sass)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Play-Sass/) | 02/09/2021 |
-| My resume with css grid | [Repo](https://github.com/Sylvain-Valvassori/My-CV)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/My-CV/) | 01/09/2021 |
-| Active collab clone | [Repo](https://github.com/Sylvain-Valvassori/Active-collab-clone)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Active-collab-clone/) | 28/08/2021 |
-</td>
-<td>
-  
-#### PHP
-| name | link |last update |
-| --------------- | --------------- | --------------- |
-| Cogip |  [Repo](https://github.com/Sylvain-Valvassori/Cogip)&nbsp; /&nbsp; [Site]() | 10/12/2021 |
-| Challenge Form |  [Repo](https://github.com/Sylvain-Valvassori/Challenge-Form)&nbsp; /&nbsp; [Site]() | 19/11/2021 |
-</td>
-    <tr>
-    <td>
-       
-#### Node.js & MangoDB
-| name | link |last update |
-| --------------- | --------------- | --------------- |
-| Chat room |  [Repo](https://github.com/SalukiMakingCode/chat-Node)&nbsp; /&nbsp; [Site]() | 24/12/2021 |
-</td>
-</tr>
-
-</table>
-
-
-
-
-
-
-
-
+### Node.js & MangoDB
+Chat room&nbsp; |&nbsp;  [Repo](https://github.com/SalukiMakingCode/chat-Node)&nbsp; /&nbsp; [Site]()&nbsp; |&nbsp; last release: 24/12/2021
