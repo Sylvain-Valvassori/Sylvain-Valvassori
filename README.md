@@ -1,6 +1,5 @@
 
 # Hi, I am Sylvain ! :vulcan_salute:
-
 <br>
 
 > Motivated by the idea of undertaking bold projects in the world of web
@@ -47,14 +46,16 @@
 #### React
  - Woodstock [13/01/2022]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/woodstock)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/woodstock/)
 
-#### Html & Css
+#### Html & Sass & Canvas
 - Star Wars [08/09/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Star-Wars-crawl)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Star-Wars-crawl/)
 - Bootstrap [08/09/2021]&nbsp;&nbsp; [Repo](https://sylvain-valvassori.github.io/bootstrap-training/)&nbsp; |&nbsp; [Site]()
 - Play Sass [02/09/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Play-Sass)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Play-Sass/)
 - Sass Card [02/09/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Sass-Card)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Sass-Card/)
 - My resume with css grid [01/09/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/My-CV)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/My-CV/)
 - Active collab clone [31/10/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Active-collab-clone)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Active-collab-clone/)
-- Ghost clicker [02/09/2021]&nbsp;&nbsp; [Repo](https://github.com/WilliamLoey/Cookie-Clicker)&nbsp; |&nbsp; [Site](https://williamloey.github.io/Cookie-Clicker/)
+- Ghost clicker [20/10/2021]&nbsp;&nbsp; [Repo](https://github.com/WilliamLoey/Cookie-Clicker)&nbsp; |&nbsp; [Site](https://williamloey.github.io/Cookie-Clicker/)
+- Pew Pew [15/10/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Pew-Pew)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Pew-Pew/)
+- Bounce balls [02/09/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Bounce-Balls)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Bounce-Balls/)
 
 #### PHP
 - Cogip [10/12/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Cogip)&nbsp; |&nbsp; [Site]()
