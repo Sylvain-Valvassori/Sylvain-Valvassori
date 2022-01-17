@@ -46,9 +46,12 @@
 #### React
  - Woodstock [13/01/2022]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/woodstock)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/woodstock/)
 
+#### Javascript
+ - Quote Random  [13/01/2022]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Quote-random)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Quote-random/)
+ 
+ 
 #### Html & Sass & Canvas
 - Star Wars [08/09/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Star-Wars-crawl)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Star-Wars-crawl/)
-- Bootstrap [08/09/2021]&nbsp;&nbsp; [Repo](https://sylvain-valvassori.github.io/bootstrap-training/)&nbsp; |&nbsp; [Site]()
 - Play Sass [02/09/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Play-Sass)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Play-Sass/)
 - Sass Card [02/09/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Sass-Card)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Sass-Card/)
 - My resume with css grid [01/09/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/My-CV)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/My-CV/)
@@ -56,6 +59,8 @@
 - Ghost clicker [20/10/2021]&nbsp;&nbsp; [Repo](https://github.com/WilliamLoey/Cookie-Clicker)&nbsp; |&nbsp; [Site](https://williamloey.github.io/Cookie-Clicker/)
 - Pew Pew [15/10/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Pew-Pew)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Pew-Pew/)
 - Bounce balls [02/09/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Bounce-Balls)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Bounce-Balls/)
+- Hangman [01/10/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Hangman)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Hangman/)
+
 
 #### PHP
 - Cogip [10/12/2021]&nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Cogip)&nbsp; |&nbsp; [Site]()
