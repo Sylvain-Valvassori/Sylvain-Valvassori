@@ -41,19 +41,18 @@
 </p>
 
 ## These are my projects
-
+ 
 #### React
 | name | link |last update |
 | --------------- | --------------- | --------------- |
 | Woodstock | [Repo](https://github.com/Sylvain-Valvassori/woodstock)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/woodstock/) | 13/01/2022 |
 
-
-
+                         
 #### Javascript
 | name | link |last update |
 | --------------- | --------------- | --------------- |
 | Quote Random | [Repo](https://github.com/Sylvain-Valvassori/Quote-random)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Quote-random/) | 13/01/2022 |
- 
+
  
 #### Html & Sass & Canvas
 | name | link |last update |
@@ -82,6 +81,65 @@
 
 
 
+
+<br>
+<hr>
+<br>
+
+
+ 
+<table border="0">
+<tr>
+<td>
+     
+#### React
+| name | link |last update |
+| --------------- | --------------- | --------------- |
+| Woodstock | [Repo](https://github.com/Sylvain-Valvassori/woodstock)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/woodstock/) | 13/01/2022 |
+</td>
+<td>
+  
+#### Javascript
+| name | link |last update |
+| --------------- | --------------- | --------------- |
+| Quote Random | [Repo](https://github.com/Sylvain-Valvassori/Quote-random)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Quote-random/) | 13/01/2022 |
+</td>
+</tr>
+    <tr>
+    <td>
+     
+#### Html & Sass & Canvas
+| name | link |last update |
+| --------------- | --------------- | --------------- |
+| Ghost clicker | [Repo](https://github.com/WilliamLoey/Cookie-Clicker)&nbsp; /&nbsp; [Site](https://williamloey.github.io/Cookie-Clicker/) | 20/10/2021 |
+| Pew Pew | [Repo](https://github.com/Sylvain-Valvassori/Pew-Pew)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Pew-Pew/) | 15/10/2021 |
+| Hangman | [Repo](https://github.com/Sylvain-Valvassori/Hangman)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Hangman/) | 01/10/2021 |
+| Bounce balls | [Repo](https://github.com/Sylvain-Valvassori/Bounce-Balls)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Bounce-Balls/) | 02/09/2021 |
+| Star Wars | [Repo](https://github.com/Sylvain-Valvassori/Star-Wars-crawl)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Star-Wars-crawl/) | 08/09/2021 |
+| Sass Card | [Repo](https://github.com/Sylvain-Valvassori/Sass-Card)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Sass-Card/) | 03/09/2021 |
+| Play Sass | [Repo](https://github.com/Sylvain-Valvassori/Play-Sass)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Play-Sass/) | 02/09/2021 |
+| My resume with css grid | [Repo](https://github.com/Sylvain-Valvassori/My-CV)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/My-CV/) | 01/09/2021 |
+| Active collab clone | [Repo](https://github.com/Sylvain-Valvassori/Active-collab-clone)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Active-collab-clone/) | 28/08/2021 |
+</td>
+<td>
+  
+#### PHP
+| name | link |last update |
+| --------------- | --------------- | --------------- |
+| Cogip |  [Repo](https://github.com/Sylvain-Valvassori/Cogip)&nbsp; /&nbsp; [Site]() | 10/12/2021 |
+| Challenge Form |  [Repo](https://github.com/Sylvain-Valvassori/Challenge-Form)&nbsp; /&nbsp; [Site]() | 19/11/2021 |
+</td>
+    <tr>
+    <td>
+       
+#### Node.js & MangoDB
+| name | link |last update |
+| --------------- | --------------- | --------------- |
+| Chat room |  [Repo](https://github.com/SalukiMakingCode/chat-Node)&nbsp; /&nbsp; [Site]() | 24/12/2021 |
+</td>
+</tr>
+
+</table>
 
 
 
