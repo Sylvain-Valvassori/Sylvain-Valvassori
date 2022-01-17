@@ -1,3 +1,10 @@
+Hi, I am Sylvain ! :vulcan_salute:
+
+
+
+
+
+
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Sylvain-Valvassori&show_icons=true&theme=react" alt="GitHub Streak">
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvain-Valvassori&layout=compact&theme=react" alt="GitHub Streak">
