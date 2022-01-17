@@ -9,7 +9,7 @@
 
 <br>
 
-### Here you will find all my projects realized during my training as a junior web developer at [Becode](https://becode.org/) but also all my evolution since my beginnings on Github.
+### In this repo you will find all my projects realized during my training as a junior web developer at [Becode](https://becode.org/) but also all my evolution since my beginnings on Github.
 
 
 <br>
