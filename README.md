@@ -6,6 +6,8 @@
 > put forward my passion and my knowledge in web development.
 > development.
 
+[Link to Google](https://www.google.com)
+
 <br>
 
 ### Here you will find all my projects realized during my training as a junior web developer at Becode but also all my evolution since my beginnings on Github.
@@ -14,6 +16,9 @@
 <br>
 <br>
 <br>
+
+## Here is some stats.
+
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Sylvain-Valvassori&show_icons=true&theme=react" alt="GitHub Streak">
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvain-Valvassori&layout=compact&theme=react" alt="GitHub Streak">
