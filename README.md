@@ -1,4 +1,3 @@
-
 # Hi, I am Sylvain ! :vulcan_salute:
 <br>
 
@@ -44,23 +43,39 @@
 ## These are my projects
 
 #### React
- - Woodstock &nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/woodstock)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/woodstock/)
+| name | link |last update |
+| --------------- | --------------- | --------------- |
+| Woodstock | [Repo](https://github.com/Sylvain-Valvassori/woodstock)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/woodstock/) | 13/01/2022 |
+
+
 
 #### Javascript
- - Quote Random &nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Quote-random)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Quote-random/)&nbsp;&nbsp;&nbsp;&nbsp; [13/01/2022]
+| name | link |last update |
+| --------------- | --------------- | --------------- |
+| Quote Random | [Repo](https://github.com/Sylvain-Valvassori/Quote-random)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Quote-random/) | 13/01/2022 |
  
  
 #### Html & Sass & Canvas
+| name | link |last update |
+| --------------- | --------------- | --------------- |
+| Ghost clicker | [Repo](https://github.com/WilliamLoey/Cookie-Clicker)&nbsp; /&nbsp; [Site](https://williamloey.github.io/Cookie-Clicker/) | 20/10/2021 |
+| Pew Pew | [Repo](https://github.com/Sylvain-Valvassori/Pew-Pew)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Pew-Pew/) | 15/10/2021 |
+| Hangman | [Repo](https://github.com/Sylvain-Valvassori/Hangman)&nbsp; /&nbsp; [Site](https://sylvain-valvassori.github.io/Hangman/) | 01/10/2021 |
+| Bounce balls | [Repo](https://github.com/Sylvain-Valvassori/Bounce-Balls)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Bounce-Balls/) | 02/09/2021 |
+| Bounce balls | [Repo](https://github.com/Sylvain-Valvassori/Bounce-Balls)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Bounce-Balls/) | 02/09/2021 |
+
+
+
+
+
+<br>
 
 - Star Wars &nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Star-Wars-crawl)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Star-Wars-crawl/)&nbsp;&nbsp;&nbsp;&nbsp; [08/09/2021]
+- Sass Card &nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Sass-Card)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Sass-Card/)&nbsp;&nbsp;&nbsp;&nbsp; [03/09/2021]
 - Play Sass &nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Play-Sass)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Play-Sass/)&nbsp;&nbsp;&nbsp;&nbsp; [02/09/2021]
-- Sass Card &nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Sass-Card)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Sass-Card/)&nbsp;&nbsp;&nbsp;&nbsp; [02/09/2021]
 - My resume with css grid &nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/My-CV)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/My-CV/)&nbsp;&nbsp;&nbsp;&nbsp; [01/09/2021]
-- Active collab clone &nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Active-collab-clone)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Active-collab-clone/)&nbsp;&nbsp;&nbsp;&nbsp; [31/10/2021]
-- Ghost clicker &nbsp;&nbsp; [Repo](https://github.com/WilliamLoey/Cookie-Clicker)&nbsp; |&nbsp; [Site](https://williamloey.github.io/Cookie-Clicker/)&nbsp;&nbsp;&nbsp;&nbsp; [20/10/2021]
-- Pew Pew &nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Pew-Pew)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Pew-Pew/)&nbsp;&nbsp;&nbsp;&nbsp; [15/10/2021]
-- Bounce balls &nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Bounce-Balls)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Bounce-Balls/)&nbsp;&nbsp;&nbsp;&nbsp; [02/09/2021]
-- Hangman &nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Hangman)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Hangman/)&nbsp;&nbsp;&nbsp;&nbsp; [01/10/2021]
+- Active collab clone &nbsp;&nbsp; [Repo](https://github.com/Sylvain-Valvassori/Active-collab-clone)&nbsp; |&nbsp; [Site](https://sylvain-valvassori.github.io/Active-collab-clone/)&nbsp;&nbsp;&nbsp;&nbsp; [28/08/2021]
+
 
 
 #### PHP
@@ -76,3 +91,13 @@
 
 
 ##### Name &nbsp;&nbsp; [Repo]()&nbsp; |&nbsp; [Site]()&nbsp;&nbsp;&nbsp;&nbsp; [00/00/2022]
+
+
+
+
+
+
+
+
+
+
