@@ -1,10 +1,19 @@
-Hi, I am Sylvain ! :vulcan_salute:
+# Hi, I am Sylvain ! :vulcan_salute:
+<br>
+
+> Motivated by the idea of undertaking bold projects in the world of web
+> design, I am looking for an experience that will that will allow me to
+> put forward my passion and my knowledge in web development.
+> development.
+
+<br>
+
+### Here you will find all my projects realized during my training as a junior web developer at Becode but also all my evolution since my beginnings on Github.
 
 
-
-
-
-
+<br>
+<br>
+<br>
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Sylvain-Valvassori&show_icons=true&theme=react" alt="GitHub Streak">
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvain-Valvassori&layout=compact&theme=react" alt="GitHub Streak">
