@@ -8,8 +8,10 @@
 
 
 #### Follow me on my socials
-<p align="center">
- <a href="https://www.behance.net/Valvassori"><img height="50px" src="./icons/behance.svg" alt="icon figma"></a>
+<p align="left">
+ <a href="https://www.behance.net/Valvassori"><img height="20px" src="./icons/behance.svg" alt="icon figma"></a>&ensp;
+ <a href="https://www.linkedin.com/in/sylvain-valvassori/"><img height="20px" src="./icons/linkedin.svg" alt="icon figma"></a>&ensp;
+ <a href="https://www.instagram.com/valvasyl/"><img height="20px" src="./icons/instagram.svg" alt="icon figma"></a>
 </p>
 
 <br>
@@ -23,27 +25,26 @@
 ## Here are some the languages I use 
 
 <p align="center">
-<img  src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="GitHub Streak">
-<img  src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Streak">
-<img  src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" alt="GitHub Streak">
-<img  src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white" alt="GitHub Streak">
-<img  src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="GitHub Streak">
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="GitHub Streak">
-<img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" alt="GitHub Streak">
-<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white" alt="GitHub Streak">
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" alt="GitHub Streak">
+ <img  src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="GitHub Streak">
+ <img  src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Streak">
+ <img  src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" alt="GitHub Streak">
+ <img  src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white" alt="GitHub Streak">
+ <img  src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="GitHub Streak">
+ <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="GitHub Streak">
+ <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" alt="GitHub Streak">
+ <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white" alt="GitHub Streak">
+ <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" alt="GitHub Streak">
 </p>
 
 ## Here are some the sofwares I use 
 
 <p align="center">
-<img height="50px" src="./icons/after-effects.png" alt="icon adobe">
-<img height="50px" src="./icons/illustrator.png" alt="icon adobe">
-<img height="50px" src="./icons/photoshop.png" alt="icon adobe">
-<img height="50px" src="./icons/indesign.png" alt="icon adobe">
-<img height="50px" src="./icons/xd.png" alt="icon adobe">
-<img height="50px" src="./icons/figma.png" alt="icon figma">
-
+ <img height="50px" src="./icons/after-effects.png" alt="icon adobe">
+ <img height="50px" src="./icons/illustrator.png" alt="icon adobe">
+ <img height="50px" src="./icons/photoshop.png" alt="icon adobe">
+ <img height="50px" src="./icons/indesign.png" alt="icon adobe">
+ <img height="50px" src="./icons/xd.png" alt="icon adobe">
+ <img height="50px" src="./icons/figma.png" alt="icon figma">
 </p>
 
 ## Here is some stats
