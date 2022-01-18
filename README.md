@@ -80,4 +80,4 @@
 🔥 Chat room &nbsp;  | &nbsp;   [Repo](https://github.com/SalukiMakingCode/chat-Node) &nbsp;  / &nbsp;  [Site]() &nbsp;  | &nbsp;  last release: 24/12/2021
  
  
- <p align="right"><a href="#top">Back to top</a></p>
+<p align="right">:point_up:&nbsp; <a href="#top">Back to top</a></p>
