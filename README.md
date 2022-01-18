@@ -68,15 +68,9 @@
 <p>
 <table align="center">
       <tr align="center">
-        <th width="400px">
-            <p> Name </p>
-        </th>
-        <th width="400px">
-            <p> Link </p>
-        </th>
-        <th width="400px">
-            <p> Last release </p>
-        </th>
+        <th width="400px"> Name </th>
+        <th width="400px"> Link </th>
+        <th width="400px"> Last release </th>
     </tr>
     <tr align="center">
         <td>🔥 Ghost clicker</td>
