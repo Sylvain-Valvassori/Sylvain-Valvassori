@@ -63,106 +63,92 @@
 <br>
 
 
+
 <details><summary>Html & Sass & Canvas</summary>
 <p>
-<table   align="center">
-      <tr>
-        <th align="center">
-            <img width="100" height="1">
-            <p> 
-                <small>
-                    Name
-                </small>
-            </p>
+<table align="center">
+      <tr align="center">
+        <th width="400px">
+            <p> Name </p>
         </th>
-        <th align="center">
-            <img width="100" height="1">
-            <p> 
-                <small>
-                    Link
-                </small>
-            </p>
+        <th width="400px">
+            <p> Link </p>
         </th>
-        <th align="center">
-            <img width="100" height="1">
-            <p> 
-                <small>
-                    Last release
-                </small>
-            </p>
+        <th width="400px">
+            <p> Last release </p>
         </th>
     </tr>
-    <tr>
+    <tr align="center">
         <td>🔥 Ghost clicker</td>
         <td>
             <a href="https://github.com/WilliamLoey/Cookie-Clicker">Repo</a> /
             <a href="https://williamloey.github.io/Cookie-Clicker/">Site</a>
         </td>
-        <td>last release: 20/10/2021</td>
+        <td>20/10/2021</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>:white_small_square: Pew Pew</td>
         <td>
             <a href="https://github.com/Sylvain-Valvassori/Pew-Pew">Repo</a> /
             <a href="https://sylvain-valvassori.github.io/Pew-Pew/">Site</a>
         </td>
-        <td>last release: 15/10/2021</td>
+        <td>15/10/2021</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>:white_small_square: Hangman</td>
         <td>
             <a href="https://github.com/Sylvain-Valvassori/Hangman">Repo</a> /
             <a href="https://sylvain-valvassori.github.io/Hangman/">Site</a>
         </td>
-        <td>last release: 01/10/2021</td>
+        <td>01/10/2021</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>:white_small_square: Bounce balls</td>
         <td>
             <a href="https://github.com/Sylvain-Valvassori/Bounce-Balls">Repo</a> /
             <a href="https://sylvain-valvassori.github.io/Bounce-Balls/">Site</a>
         </td>
-        <td>last release: 02/09/2021</td>
+        <td>02/09/2021</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>:white_small_square: Star Wars</td>
         <td>
             <a href="https://github.com/Sylvain-Valvassori/Star-Wars-crawl">Repo</a> /
             <a href="https://sylvain-valvassori.github.io/Star-Wars-crawl/">Site</a>
         </td>
-        <td>last release: 08/09/2021</td>
+        <td>08/09/2021</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>:white_small_square: Sass Card</td>
         <td>
             <a href="https://github.com/Sylvain-Valvassori/Sass-Card">Repo</a> /
             <a href="https://sylvain-valvassori.github.io/Sass-Card/">Site</a>
         </td>
-        <td>last release: 03/09/2021</td>
+        <td>03/09/2021</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>:white_small_square: Play Sass</td>
         <td>
             <a href="https://github.com/Sylvain-Valvassori/Play-Sass">Repo</a> /
             <a href="https://sylvain-valvassori.github.io/Play-Sass/">Site</a>
         </td>
-        <td>last release: 02/09/2021</td>
+        <td>02/09/2021</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>:white_small_square: My resume with css grid</td>
         <td>
             <a href="https://github.com/Sylvain-Valvassori/My-CV">Repo</a> /
             <a href="https://sylvain-valvassori.github.io/My-CV/">Site</a>
         </td>
-        <td>last release: 01/09/2021</td>
+        <td>01/09/2021</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>🔥 Active collab clone</td>
         <td>
             <a href="https://github.com/Sylvain-Valvassori/Active-collab-clone">Repo</a> /
             <a href="https://sylvain-valvassori.github.io/Active-collab-clone/">Site</a>
         </td>
-        <td>last release: 28/08/2021</td>
+        <td>28/08/2021</td>
     </tr>
 </table>
 </p>
