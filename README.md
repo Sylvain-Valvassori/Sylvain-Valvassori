@@ -44,6 +44,14 @@
 
 ## These are my projects
  
+<details><summary<h2>React</h2></summary>
+<p>
+ 
+ 🔥 Woodstock  &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/woodstock) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/woodstock/) &nbsp;  | &nbsp;  last release: 13/01/2022
+</p>
+</details>
+ 
+ 
 ### React
 🔥 Woodstock  &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/woodstock) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/woodstock/) &nbsp;  | &nbsp;  last release: 13/01/2022
 
