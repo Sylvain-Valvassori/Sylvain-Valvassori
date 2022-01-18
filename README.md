@@ -42,130 +42,179 @@
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF" alt="GitHub Streak">
 </p>
 
+
 ## These are my projects
  
 <details><summary>React</summary>
-<p>
- 
- 🔥 Woodstock  &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/woodstock) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/woodstock/) &nbsp;  | &nbsp;  last release: 13/01/2022
-</p>
+    <p>
+        <table align="center">
+            <tr align="center">
+                <th width="400px"> Name </th>
+                <th width="400px"> Link </th>
+                <th width="400px"> Last release </th>
+            </tr>
+            <tr align="center">
+                <td>🔥 Woodstock</td>
+                <td>
+                    <a href="https://github.com/Sylvain-Valvassori/woodstock">Repo</a> /
+                    <a href="https://sylvain-valvassori.github.io/woodstock/">Site</a>
+                </td>
+                <td>13/01/2022</td>
+            </tr>
+        </table>
+    </p>
 </details>
-
-<br> 
-
 <details><summary>Javascript</summary>
-<p>
- 
-:white_small_square: Quote Random  &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Quote-random) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Quote-random/) &nbsp;  | &nbsp;  last release: 13/01/2022
-</p>
+    <p>
+        <table align="center">
+            <tr align="center">
+                <th width="400px"> Name </th>
+                <th width="400px"> Link </th>
+                <th width="400px"> Last release </th>
+            </tr>
+            <tr align="center">
+                <td>:white_small_square: Quote Random</td>
+                <td>
+                    <a href="https://github.com/Sylvain-Valvassori/Quote-random">Repo</a> /
+                    <a href="https://sylvain-valvassori.github.io/Quote-random/">Site</a>
+                </td>
+                <td>13/01/2022</td>
+            </tr>
+        </table>
+    </p>
 </details>
-
-<br>
-
-
-
 <details><summary>Html & Sass & Canvas</summary>
 <p>
-<table align="center">
-      <tr align="center">
-        <th width="400px"> Name </th>
-        <th width="400px"> Link </th>
-        <th width="400px"> Last release </th>
-    </tr>
-    <tr align="center">
-        <td>🔥 Ghost clicker</td>
-        <td>
-            <a href="https://github.com/WilliamLoey/Cookie-Clicker">Repo</a> /
-            <a href="https://williamloey.github.io/Cookie-Clicker/">Site</a>
-        </td>
-        <td>20/10/2021</td>
-    </tr>
-    <tr align="center">
-        <td>:white_small_square: Pew Pew</td>
-        <td>
-            <a href="https://github.com/Sylvain-Valvassori/Pew-Pew">Repo</a> /
-            <a href="https://sylvain-valvassori.github.io/Pew-Pew/">Site</a>
-        </td>
-        <td>15/10/2021</td>
-    </tr>
-    <tr align="center">
-        <td>:white_small_square: Hangman</td>
-        <td>
-            <a href="https://github.com/Sylvain-Valvassori/Hangman">Repo</a> /
-            <a href="https://sylvain-valvassori.github.io/Hangman/">Site</a>
-        </td>
-        <td>01/10/2021</td>
-    </tr>
-    <tr align="center">
-        <td>:white_small_square: Bounce balls</td>
-        <td>
-            <a href="https://github.com/Sylvain-Valvassori/Bounce-Balls">Repo</a> /
-            <a href="https://sylvain-valvassori.github.io/Bounce-Balls/">Site</a>
-        </td>
-        <td>02/09/2021</td>
-    </tr>
-    <tr align="center">
-        <td>:white_small_square: Star Wars</td>
-        <td>
-            <a href="https://github.com/Sylvain-Valvassori/Star-Wars-crawl">Repo</a> /
-            <a href="https://sylvain-valvassori.github.io/Star-Wars-crawl/">Site</a>
-        </td>
-        <td>08/09/2021</td>
-    </tr>
-    <tr align="center">
-        <td>:white_small_square: Sass Card</td>
-        <td>
-            <a href="https://github.com/Sylvain-Valvassori/Sass-Card">Repo</a> /
-            <a href="https://sylvain-valvassori.github.io/Sass-Card/">Site</a>
-        </td>
-        <td>03/09/2021</td>
-    </tr>
-    <tr align="center">
-        <td>:white_small_square: Play Sass</td>
-        <td>
-            <a href="https://github.com/Sylvain-Valvassori/Play-Sass">Repo</a> /
-            <a href="https://sylvain-valvassori.github.io/Play-Sass/">Site</a>
-        </td>
-        <td>02/09/2021</td>
-    </tr>
-    <tr align="center">
-        <td>:white_small_square: My resume with css grid</td>
-        <td>
-            <a href="https://github.com/Sylvain-Valvassori/My-CV">Repo</a> /
-            <a href="https://sylvain-valvassori.github.io/My-CV/">Site</a>
-        </td>
-        <td>01/09/2021</td>
-    </tr>
-    <tr align="center">
-        <td>🔥 Active collab clone</td>
-        <td>
-            <a href="https://github.com/Sylvain-Valvassori/Active-collab-clone">Repo</a> /
-            <a href="https://sylvain-valvassori.github.io/Active-collab-clone/">Site</a>
-        </td>
-        <td>28/08/2021</td>
-    </tr>
-</table>
+   <table align="center">
+         <tr align="center">
+           <th width="400px"> Name </th>
+           <th width="400px"> Link </th>
+           <th width="400px"> Last release </th>
+       </tr>
+       <tr align="center">
+           <td>🔥 Ghost clicker</td>
+           <td>
+               <a href="https://github.com/WilliamLoey/Cookie-Clicker">Repo</a> /
+               <a href="https://williamloey.github.io/Cookie-Clicker/">Site</a>
+           </td>
+           <td>20/10/2021</td>
+       </tr>
+       <tr align="center">
+           <td>:white_small_square: Pew Pew</td>
+           <td>
+               <a href="https://github.com/Sylvain-Valvassori/Pew-Pew">Repo</a> /
+               <a href="https://sylvain-valvassori.github.io/Pew-Pew/">Site</a>
+           </td>
+           <td>15/10/2021</td>
+       </tr>
+       <tr align="center">
+           <td>:white_small_square: Hangman</td>
+           <td>
+               <a href="https://github.com/Sylvain-Valvassori/Hangman">Repo</a> /
+               <a href="https://sylvain-valvassori.github.io/Hangman/">Site</a>
+           </td>
+           <td>01/10/2021</td>
+       </tr>
+       <tr align="center">
+           <td>:white_small_square: Bounce balls</td>
+           <td>
+               <a href="https://github.com/Sylvain-Valvassori/Bounce-Balls">Repo</a> /
+               <a href="https://sylvain-valvassori.github.io/Bounce-Balls/">Site</a>
+           </td>
+           <td>02/09/2021</td>
+       </tr>
+       <tr align="center">
+           <td>:white_small_square: Star Wars</td>
+           <td>
+               <a href="https://github.com/Sylvain-Valvassori/Star-Wars-crawl">Repo</a> /
+               <a href="https://sylvain-valvassori.github.io/Star-Wars-crawl/">Site</a>
+           </td>
+           <td>08/09/2021</td>
+       </tr>
+       <tr align="center">
+           <td>:white_small_square: Sass Card</td>
+           <td>
+               <a href="https://github.com/Sylvain-Valvassori/Sass-Card">Repo</a> /
+               <a href="https://sylvain-valvassori.github.io/Sass-Card/">Site</a>
+           </td>
+           <td>03/09/2021</td>
+       </tr>
+       <tr align="center">
+           <td>:white_small_square: Play Sass</td>
+           <td>
+               <a href="https://github.com/Sylvain-Valvassori/Play-Sass">Repo</a> /
+               <a href="https://sylvain-valvassori.github.io/Play-Sass/">Site</a>
+           </td>
+           <td>02/09/2021</td>
+       </tr>
+       <tr align="center">
+           <td>:white_small_square: My resume with css grid</td>
+           <td>
+               <a href="https://github.com/Sylvain-Valvassori/My-CV">Repo</a> /
+               <a href="https://sylvain-valvassori.github.io/My-CV/">Site</a>
+           </td>
+           <td>01/09/2021</td>
+       </tr>
+       <tr align="center">
+           <td>🔥 Active collab clone</td>
+           <td>
+               <a href="https://github.com/Sylvain-Valvassori/Active-collab-clone">Repo</a> /
+               <a href="https://sylvain-valvassori.github.io/Active-collab-clone/">Site</a>
+           </td>
+           <td>28/08/2021</td>
+       </tr>
+   </table>
 </p>
 </details>
-
-<br>
-
 <details><summary>PHP</summary>
-<p>
- 
-🔥 Cogip &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;  | &nbsp;   [Repo](https://github.com/Sylvain-Valvassori/Cogip) &nbsp;  / &nbsp;  [Site]() &nbsp;  | &nbsp;  last release: 10/12/2021  <br>
-:white_small_square: Challenge Form &nbsp;  | &nbsp;   [Repo](https://github.com/Sylvain-Valvassori/Challenge-Form) &nbsp;  / &nbsp;  [Site]() &nbsp;  | &nbsp;  last release: 19/11/2021 
-</p>
+    <p>
+        <table align="center">
+            <tr align="center">
+                <th width="400px"> Name </th>
+                <th width="400px"> Link </th>
+                <th width="400px"> Last release </th>
+            </tr>
+            <tr align="center">
+                <td>🔥 Cogip</td>
+                <td>
+                    <a href="https://github.com/Sylvain-Valvassori/Cogip">Repo</a> /
+                    <a href="#">Site</a>
+                </td>
+                <td>10/12/2021</td>
+            </tr>
+            <tr align="center">
+                <td>:white_small_square: Challenge Form</td>
+                <td>
+                    <a href="https://github.com/Sylvain-Valvassori/Challenge-Form">Repo</a> /
+                    <a href="#">Site</a>
+                </td>
+                <td>19/11/2021</td>
+            </tr>
+        </table>
+    </p>
+</details>
+<details><summary>Node.js & MangoDB</summary>
+    <p>
+        <table align="center">
+            <tr align="center">
+                <th width="400px"> Name </th>
+                <th width="400px"> Link </th>
+                <th width="400px"> Last release </th>
+            </tr>
+            <tr align="center">
+                <td>🔥 Chat room</td>
+                <td>
+                    <a href="https://github.com/SalukiMakingCode/chat-Node">Repo</a> /
+                    <a href="#">Site</a>
+                </td>
+                <td>24/12/2021</td>
+            </tr>
+        </table>
+    </p>
 </details>
  
 <br>
 
-<details><summary>Node.js & MangoDB</summary>
-<p>
- 
-🔥 Chat room &nbsp;  | &nbsp;   [Repo](https://github.com/SalukiMakingCode/chat-Node) &nbsp;  / &nbsp;  [Site]() &nbsp;  | &nbsp;  last release: 24/12/2021
-</p>
-</details>
 
  
 <p align="center">:point_up:&nbsp; <a href="#top">Back to top</a></p>
