@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 # Hi, I am Sylvain ! :vulcan_salute:
 <br>
 
