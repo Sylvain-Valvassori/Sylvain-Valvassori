@@ -44,12 +44,14 @@
 ## These are my projects
  
 ### React
-Woodstock  &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/woodstock) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/woodstock/) &nbsp;  | &nbsp;  last release: 13/01/2022 
+Woodstock  &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/woodstock) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/woodstock/) &nbsp;  | &nbsp;  last release: 13/01/2022
+
+<br> 
 
                          
 ### Javascript
 Quote Random  &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Quote-random) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Quote-random/) &nbsp;  | &nbsp;  13/01/2022
- 
+
 <br>
 
 <!-- &nbsp;  1space &ensp; 2space -->
@@ -65,10 +67,13 @@ Play Sass &ensp;&ensp;&ensp;&ensp;  | &nbsp;  [Repo](https://github.com/Sylvain-
 My resume with css grid &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/My-CV) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/My-CV/) &nbsp;  | &nbsp;  last release: 01/09/2021 <br>
 Active collab clone &ensp;&ensp;&ensp;&ensp; &ensp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Active-collab-clone) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Active-collab-clone/) &nbsp;  | &nbsp;  last release: 28/08/2021 <br>
 
+<br>
+
 ### PHP
 Cogip &ensp;&ensp;&ensp; &ensp; &ensp; &ensp; &ensp;  | &nbsp;   [Repo](https://github.com/Sylvain-Valvassori/Cogip) &nbsp;  / &nbsp;  [Site]() &nbsp;  | &nbsp;  last release: 10/12/2021  <br>
 Challenge Form &nbsp;  | &nbsp;   [Repo](https://github.com/Sylvain-Valvassori/Challenge-Form) &nbsp;  / &nbsp;  [Site]() &nbsp;  | &nbsp;  last release: 19/11/2021 
 
+<br>
 
 ### Node.js & MangoDB
 Chat room &nbsp;  | &nbsp;   [Repo](https://github.com/SalukiMakingCode/chat-Node) &nbsp;  / &nbsp;  [Site]() &nbsp;  | &nbsp;  last release: 24/12/2021
