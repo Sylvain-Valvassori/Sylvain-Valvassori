@@ -44,28 +44,27 @@
 
 ## These are my projects
  
-<details><summary<h2>React</h2></summary>
+<details><summary>React</summary>
 <p>
  
  🔥 Woodstock  &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/woodstock) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/woodstock/) &nbsp;  | &nbsp;  last release: 13/01/2022
 </p>
 </details>
- 
- 
-### React
-🔥 Woodstock  &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/woodstock) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/woodstock/) &nbsp;  | &nbsp;  last release: 13/01/2022
 
 <br> 
 
-                         
-### Javascript
+<details><summary>Javascript</summary>
+<p>
+ 
 :white_small_square: Quote Random  &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Quote-random) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Quote-random/) &nbsp;  | &nbsp;  last release: 13/01/2022
+</p>
+</details>
 
 <br>
 
-<!-- &nbsp;  1space &ensp; 2space -->
-### Html & Sass & Canvas
-
+<details><summary>### Html & Sass & Canvas</summary>
+<p>
+ 
 🔥 Ghost clicker  &nbsp;  |  &nbsp;  [Repo](https://github.com/WilliamLoey/Cookie-Clicker)  &nbsp;  / &nbsp;  [Site](https://williamloey.github.io/Cookie-Clicker/)  &nbsp;  | &nbsp;  last release: 20/10/2021 <br>
 :white_small_square: Pew Pew &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Pew-Pew) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Pew-Pew/) &nbsp;  | &nbsp;  last release: 15/10/2021 <br>
 :white_small_square: Hangman &ensp;&ensp; &ensp;&ensp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Hangman) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Hangman/) &nbsp;  | &nbsp;  last release: 01/10/2021 <br>
@@ -76,16 +75,27 @@
 :white_small_square: My resume with css grid &nbsp; &ensp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/My-CV) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/My-CV/) &nbsp;  | &nbsp;  last release: 01/09/2021 <br>
 🔥 Active collab clone &ensp;&ensp;&ensp;&ensp; &ensp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Active-collab-clone) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Active-collab-clone/) &nbsp;  | &nbsp;  last release: 28/08/2021 <br>
 
+</p>
+</details>
+
 <br>
 
-### PHP
+<details><summary>PHP</summary>
+<p>
+ 
 🔥 Cogip &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;  | &nbsp;   [Repo](https://github.com/Sylvain-Valvassori/Cogip) &nbsp;  / &nbsp;  [Site]() &nbsp;  | &nbsp;  last release: 10/12/2021  <br>
 :white_small_square: Challenge Form &nbsp;  | &nbsp;   [Repo](https://github.com/Sylvain-Valvassori/Challenge-Form) &nbsp;  / &nbsp;  [Site]() &nbsp;  | &nbsp;  last release: 19/11/2021 
-
+</p>
+</details>
+ 
 <br>
 
-### Node.js & MangoDB
+<details><summary>Node.js & MangoDB</summary>
+<p>
+ 
 🔥 Chat room &nbsp;  | &nbsp;   [Repo](https://github.com/SalukiMakingCode/chat-Node) &nbsp;  / &nbsp;  [Site]() &nbsp;  | &nbsp;  last release: 24/12/2021
+</p>
+</details>
+
  
- 
-<p align="right">:point_up:&nbsp; <a href="#top">Back to top</a></p>
+<p align="center">:point_up:&nbsp; <a href="#top">Back to top</a></p>
