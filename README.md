@@ -62,19 +62,109 @@
 
 <br>
 
-<details><summary>### Html & Sass & Canvas</summary>
-<p>
- 
-🔥 Ghost clicker  &nbsp;  |  &nbsp;  [Repo](https://github.com/WilliamLoey/Cookie-Clicker)  &nbsp;  / &nbsp;  [Site](https://williamloey.github.io/Cookie-Clicker/)  &nbsp;  | &nbsp;  last release: 20/10/2021 <br>
-:white_small_square: Pew Pew &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Pew-Pew) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Pew-Pew/) &nbsp;  | &nbsp;  last release: 15/10/2021 <br>
-:white_small_square: Hangman &ensp;&ensp; &ensp;&ensp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Hangman) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Hangman/) &nbsp;  | &nbsp;  last release: 01/10/2021 <br>
-:white_small_square: Bounce balls &nbsp; &ensp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Bounce-Balls) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Bounce-Balls/) &nbsp;  | &nbsp; last release: 02/09/2021 <br>
-:white_small_square: Star Wars &ensp;&ensp;&ensp; &ensp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Star-Wars-crawl) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Star-Wars-crawl/) &nbsp;  | &nbsp;  last release: 08/09/2021 <br>
-:white_small_square: Sass Card &ensp;&ensp;&ensp; &ensp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Sass-Card) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Sass-Card/) &nbsp;  | &nbsp;  last release: 03/09/2021 <br>
-:white_small_square: Play Sass &ensp;&ensp;&ensp;&ensp;&ensp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Play-Sass) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Play-Sass/) &nbsp;  | &nbsp;  last release: 02/09/2021 <br>
-:white_small_square: My resume with css grid &nbsp; &ensp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/My-CV) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/My-CV/) &nbsp;  | &nbsp;  last release: 01/09/2021 <br>
-🔥 Active collab clone &ensp;&ensp;&ensp;&ensp; &ensp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Active-collab-clone) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Active-collab-clone/) &nbsp;  | &nbsp;  last release: 28/08/2021 <br>
 
+<details><summary>Html & Sass & Canvas</summary>
+<p>
+<table   align="center">
+      <tr>
+        <th align="center">
+            <img width="100" height="1">
+            <p> 
+                <small>
+                    Name
+                </small>
+            </p>
+        </th>
+        <th align="center">
+            <img width="100" height="1">
+            <p> 
+                <small>
+                    Link
+                </small>
+            </p>
+        </th>
+        <th align="center">
+            <img width="100" height="1">
+            <p> 
+                <small>
+                    Last release
+                </small>
+            </p>
+        </th>
+    </tr>
+    <tr>
+        <td>🔥 Ghost clicker</td>
+        <td>
+            <a href="https://github.com/WilliamLoey/Cookie-Clicker">Repo</a> /
+            <a href="https://williamloey.github.io/Cookie-Clicker/">Site</a>
+        </td>
+        <td>last release: 20/10/2021</td>
+    </tr>
+    <tr>
+        <td>:white_small_square: Pew Pew</td>
+        <td>
+            <a href="https://github.com/Sylvain-Valvassori/Pew-Pew">Repo</a> /
+            <a href="https://sylvain-valvassori.github.io/Pew-Pew/">Site</a>
+        </td>
+        <td>last release: 15/10/2021</td>
+    </tr>
+    <tr>
+        <td>:white_small_square: Hangman</td>
+        <td>
+            <a href="https://github.com/Sylvain-Valvassori/Hangman">Repo</a> /
+            <a href="https://sylvain-valvassori.github.io/Hangman/">Site</a>
+        </td>
+        <td>last release: 01/10/2021</td>
+    </tr>
+    <tr>
+        <td>:white_small_square: Bounce balls</td>
+        <td>
+            <a href="https://github.com/Sylvain-Valvassori/Bounce-Balls">Repo</a> /
+            <a href="https://sylvain-valvassori.github.io/Bounce-Balls/">Site</a>
+        </td>
+        <td>last release: 02/09/2021</td>
+    </tr>
+    <tr>
+        <td>:white_small_square: Star Wars</td>
+        <td>
+            <a href="https://github.com/Sylvain-Valvassori/Star-Wars-crawl">Repo</a> /
+            <a href="https://sylvain-valvassori.github.io/Star-Wars-crawl/">Site</a>
+        </td>
+        <td>last release: 08/09/2021</td>
+    </tr>
+    <tr>
+        <td>:white_small_square: Sass Card</td>
+        <td>
+            <a href="https://github.com/Sylvain-Valvassori/Sass-Card">Repo</a> /
+            <a href="https://sylvain-valvassori.github.io/Sass-Card/">Site</a>
+        </td>
+        <td>last release: 03/09/2021</td>
+    </tr>
+    <tr>
+        <td>:white_small_square: Play Sass</td>
+        <td>
+            <a href="https://github.com/Sylvain-Valvassori/Play-Sass">Repo</a> /
+            <a href="https://sylvain-valvassori.github.io/Play-Sass/">Site</a>
+        </td>
+        <td>last release: 02/09/2021</td>
+    </tr>
+    <tr>
+        <td>:white_small_square: My resume with css grid</td>
+        <td>
+            <a href="https://github.com/Sylvain-Valvassori/My-CV">Repo</a> /
+            <a href="https://sylvain-valvassori.github.io/My-CV/">Site</a>
+        </td>
+        <td>last release: 01/09/2021</td>
+    </tr>
+    <tr>
+        <td>🔥 Active collab clone</td>
+        <td>
+            <a href="https://github.com/Sylvain-Valvassori/Active-collab-clone">Repo</a> /
+            <a href="https://sylvain-valvassori.github.io/Active-collab-clone/">Site</a>
+        </td>
+        <td>last release: 28/08/2021</td>
+    </tr>
+</table>
 </p>
 </details>
 
