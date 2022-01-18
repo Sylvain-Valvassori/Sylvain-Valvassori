@@ -51,7 +51,7 @@
 
                          
 ### Javascript
-:white_small_square: Quote Random  &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Quote-random) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Quote-random/) &nbsp;  | &nbsp;  13/01/2022
+:white_small_square: Quote Random  &nbsp;  | &nbsp;  [Repo](https://github.com/Sylvain-Valvassori/Quote-random) &nbsp;  / &nbsp;  [Site](https://sylvain-valvassori.github.io/Quote-random/) &nbsp;  | &nbsp;  last release: 13/01/2022
 
 <br>
 
