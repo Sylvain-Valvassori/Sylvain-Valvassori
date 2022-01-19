@@ -86,7 +86,7 @@
                 <th width="400px"> Last release </th>
             </tr>
             <tr align="center">
-                <td>:white_small_square: Quote Random</td>
+                <td> Quote Random</td>
                 <td>
                     <a href="https://github.com/Sylvain-Valvassori/Quote-random">Repo</a> /
                     <a href="https://sylvain-valvassori.github.io/Quote-random/">Site</a>
@@ -113,7 +113,7 @@
            <td>20/10/2021</td>
        </tr>
        <tr align="center">
-           <td>:white_small_square: Pew Pew</td>
+           <td> Pew Pew</td>
            <td>
                <a href="https://github.com/Sylvain-Valvassori/Pew-Pew">Repo</a> /
                <a href="https://sylvain-valvassori.github.io/Pew-Pew/">Site</a>
@@ -121,7 +121,7 @@
            <td>15/10/2021</td>
        </tr>
        <tr align="center">
-           <td>:white_small_square: Hangman</td>
+           <td> Hangman</td>
            <td>
                <a href="https://github.com/Sylvain-Valvassori/Hangman">Repo</a> /
                <a href="https://sylvain-valvassori.github.io/Hangman/">Site</a>
@@ -129,7 +129,7 @@
            <td>01/10/2021</td>
        </tr>
        <tr align="center">
-           <td>:white_small_square: Bounce balls</td>
+           <td> Bounce balls</td>
            <td>
                <a href="https://github.com/Sylvain-Valvassori/Bounce-Balls">Repo</a> /
                <a href="https://sylvain-valvassori.github.io/Bounce-Balls/">Site</a>
@@ -137,7 +137,7 @@
            <td>02/09/2021</td>
        </tr>
        <tr align="center">
-           <td>:white_small_square: Star Wars</td>
+           <td> Star Wars</td>
            <td>
                <a href="https://github.com/Sylvain-Valvassori/Star-Wars-crawl">Repo</a> /
                <a href="https://sylvain-valvassori.github.io/Star-Wars-crawl/">Site</a>
@@ -145,7 +145,7 @@
            <td>08/09/2021</td>
        </tr>
        <tr align="center">
-           <td>:white_small_square: Sass Card</td>
+           <td> Sass Card</td>
            <td>
                <a href="https://github.com/Sylvain-Valvassori/Sass-Card">Repo</a> /
                <a href="https://sylvain-valvassori.github.io/Sass-Card/">Site</a>
@@ -153,7 +153,7 @@
            <td>03/09/2021</td>
        </tr>
        <tr align="center">
-           <td>:white_small_square: Play Sass</td>
+           <td> Play Sass</td>
            <td>
                <a href="https://github.com/Sylvain-Valvassori/Play-Sass">Repo</a> /
                <a href="https://sylvain-valvassori.github.io/Play-Sass/">Site</a>
@@ -161,7 +161,7 @@
            <td>02/09/2021</td>
        </tr>
        <tr align="center">
-           <td>:white_small_square: My resume with css grid</td>
+           <td> My resume with css grid</td>
            <td>
                <a href="https://github.com/Sylvain-Valvassori/My-CV">Repo</a> /
                <a href="https://sylvain-valvassori.github.io/My-CV/">Site</a>
@@ -196,7 +196,7 @@
                 <td>10/12/2021</td>
             </tr>
             <tr align="center">
-                <td>:white_small_square: Challenge Form</td>
+                <td> Challenge Form</td>
                 <td>
                     <a href="https://github.com/Sylvain-Valvassori/Challenge-Form">Repo</a> /
                     <a href="#">Site</a>
