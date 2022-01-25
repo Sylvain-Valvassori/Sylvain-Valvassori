@@ -4,7 +4,6 @@
 > Motivated by the idea of undertaking bold projects in the world of web
 > design, I am looking for an experience that will that will allow me to
 > put forward my passion and my knowledge in web development.
-> development.
 
 
 #### Follow me on
