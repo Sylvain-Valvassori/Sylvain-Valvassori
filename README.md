@@ -66,10 +66,10 @@
                 <th width="400px"> Last release </th>
             </tr>
             <tr align="center">
-                <td>🔥 Movie app</td>
+                <td>🔥 React movie</td>
                 <td>
-                    <a href="https://github.com/Sylvain-Valvassori/movie-app">Repo</a> /
-                    <a href="https://sylvain-valvassori.github.io/movie-app/">Site</a>
+                    <a href="https://github.com/Sylvain-Valvassori/react-movie">Repo</a> /
+                    <a href="https://sylvain-valvassori.github.io/react-movie/">Site</a>
                 </td>
                 <td>25/01/2022</td>
             </tr>
