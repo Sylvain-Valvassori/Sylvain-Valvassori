@@ -68,8 +68,8 @@
             <tr align="center">
                 <td>🔥 Movie app</td>
                 <td>
-                    <a href="https://github.com/Sylvain-Valvassori/movie-app2">Repo</a> /
-                    <a href="https://sylvain-valvassori.github.io/movie-app2/">Site</a>
+                    <a href="https://github.com/Sylvain-Valvassori/movie-app">Repo</a> /
+                    <a href="https://sylvain-valvassori.github.io/movie-app/">Site</a>
                 </td>
                 <td>25/01/2022</td>
             </tr>
