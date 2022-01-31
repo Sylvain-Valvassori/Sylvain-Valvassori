@@ -66,7 +66,7 @@
                 <th width="400px"> Last release </th>
             </tr>
             <tr align="center">
-                <td>🔥 React movie</td>
+                <td>🔥 React movie (In progress)</td>
                 <td>
                     <a href="https://github.com/Sylvain-Valvassori/react-movie">Repo</a> /
                     <a href="https://sylvain-valvassori.github.io/react-movie/">Site</a>
