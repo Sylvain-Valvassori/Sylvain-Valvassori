@@ -8,7 +8,7 @@
 
 #### Follow me on
 <p align="left">
- <a href="https://www.behance.net/Valvassori"><img height="20px" src="./icons/behance.svg" alt="icon figma"></a>&ensp;
+ <a target="_blank" href="https://www.behance.net/Valvassori"><img height="20px" src="./icons/behance.svg" alt="icon figma"></a>&ensp;
  <a href="https://www.linkedin.com/in/sylvain-valvassori/"><img height="20px" src="./icons/linkedin.svg" alt="icon figma"></a>&ensp;
  <a href="https://www.instagram.com/valvasyl/"><img height="20px" src="./icons/instagram.svg" alt="icon figma"></a>
 </p>
