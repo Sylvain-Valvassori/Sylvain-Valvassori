@@ -68,8 +68,7 @@
             <tr align="center">
                 <td>🔥 Shopping list make in react Nattive</td>
                 <td>
-                    <a href="https://github.com/AlineBsr/ws-react-native">Repo</a> /
-                    <a href="https://sylvain-valvassori.github.io/react-movie/">Site</a>
+                    <a href="https://github.com/AlineBsr/ws-react-native">Repo</a>
                 </td>
                 <td>08/03/2022</td>
             </tr>
