@@ -56,7 +56,25 @@
 
 
 ## These are my projects
- 
+<details><summary>Work in Progress</summary>
+    <p>
+        <table align="center">
+            <tr align="center">
+                <th width="400px"> Name </th>
+                <th width="400px"> Link </th>
+                <th width="400px"> Last release </th>
+            </tr>
+            <tr align="center">
+                <td>🔥 Colibris</td>
+                <td>
+                    <a href="https://github.com/Sylvain-Valvassori/colibris">Repo</a> /
+                    <a href="https://sylvain-valvassori.github.io/colibris/">Site</a>
+                </td>
+                <td>11/05/2022</td>
+            </tr>
+        </table>
+    </p>
+</details> 
 <details><summary>React</summary>
     <p>
         <table align="center">
