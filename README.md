@@ -225,30 +225,35 @@
 <br>
 <br>
 
-## Here are some the languages I use 
+# Here are some the languages & software I use 
 
-<p align="center">
- <img  src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="GitHub Streak">
- <img  src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Streak">
- <img  src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" alt="GitHub Streak">
- <img  src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white" alt="GitHub Streak">
- <img  src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="GitHub Streak">
- <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="GitHub Streak">
- <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" alt="GitHub Streak">
- <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white" alt="GitHub Streak">
- <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" alt="GitHub Streak">
-</p>
+<table align="center">
+ <tr align="center">
+     <th width="50%"> Languages </th>
+     <th width="50%"> Softwares </th>
+ </tr>
+ <tr >
+  <td> 
+       <img  src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="GitHub Streak">
+       <img  src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Streak">
+       <img  src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" alt="GitHub Streak">
+       <img  src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white" alt="GitHub Streak">
+       <img  src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="GitHub Streak">
+       <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="GitHub Streak">
+       <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" alt="GitHub Streak">
+       <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white" alt="GitHub Streak">
+       <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" alt="GitHub Streak"></td>
+  <td align="center">
+       <img height="50px" src="./icons/after-effects.png" alt="icon adobe">
+       <img height="50px" src="./icons/illustrator.png" alt="icon adobe">
+       <img height="50px" src="./icons/photoshop.png" alt="icon adobe">
+       <img height="50px" src="./icons/indesign.png" alt="icon adobe">
+       <img height="50px" src="./icons/xd.png" alt="icon adobe">
+       <img height="50px" src="./icons/figma.png" alt="icon figma">
+  </td>
+ </tr>
+<table>
 
-## Here are some the sofwares I use 
-
-<p align="center">
- <img height="50px" src="./icons/after-effects.png" alt="icon adobe">
- <img height="50px" src="./icons/illustrator.png" alt="icon adobe">
- <img height="50px" src="./icons/photoshop.png" alt="icon adobe">
- <img height="50px" src="./icons/indesign.png" alt="icon adobe">
- <img height="50px" src="./icons/xd.png" alt="icon adobe">
- <img height="50px" src="./icons/figma.png" alt="icon figma">
-</p>
 
 ## Here is some stats
 
