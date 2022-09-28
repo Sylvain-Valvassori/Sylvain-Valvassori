@@ -19,41 +19,6 @@
 <br>
 <br>
 
-<br>
-
-## Here are some the languages I use 
-
-<p align="center">
- <img  src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="GitHub Streak">
- <img  src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Streak">
- <img  src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" alt="GitHub Streak">
- <img  src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white" alt="GitHub Streak">
- <img  src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="GitHub Streak">
- <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="GitHub Streak">
- <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" alt="GitHub Streak">
- <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white" alt="GitHub Streak">
- <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" alt="GitHub Streak">
-</p>
-
-## Here are some the sofwares I use 
-
-<p align="center">
- <img height="50px" src="./icons/after-effects.png" alt="icon adobe">
- <img height="50px" src="./icons/illustrator.png" alt="icon adobe">
- <img height="50px" src="./icons/photoshop.png" alt="icon adobe">
- <img height="50px" src="./icons/indesign.png" alt="icon adobe">
- <img height="50px" src="./icons/xd.png" alt="icon adobe">
- <img height="50px" src="./icons/figma.png" alt="icon figma">
-</p>
-
-## Here is some stats
-
-<p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Sylvain-Valvassori&show_icons=true&theme=react" alt="GitHub Streak">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvain-Valvassori&layout=compact&theme=react" alt="GitHub Streak">
-<img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF" alt="GitHub Streak">
-</p>
-
 
 ## These are my projects
 <details><summary>Work in Progress</summary>
@@ -257,6 +222,43 @@
         </table>
     </p>
 </details>
+<br>
+<br>
+
+## Here are some the languages I use 
+
+<p align="center">
+ <img  src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="GitHub Streak">
+ <img  src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Streak">
+ <img  src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" alt="GitHub Streak">
+ <img  src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white" alt="GitHub Streak">
+ <img  src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="GitHub Streak">
+ <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="GitHub Streak">
+ <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" alt="GitHub Streak">
+ <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white" alt="GitHub Streak">
+ <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" alt="GitHub Streak">
+</p>
+
+## Here are some the sofwares I use 
+
+<p align="center">
+ <img height="50px" src="./icons/after-effects.png" alt="icon adobe">
+ <img height="50px" src="./icons/illustrator.png" alt="icon adobe">
+ <img height="50px" src="./icons/photoshop.png" alt="icon adobe">
+ <img height="50px" src="./icons/indesign.png" alt="icon adobe">
+ <img height="50px" src="./icons/xd.png" alt="icon adobe">
+ <img height="50px" src="./icons/figma.png" alt="icon figma">
+</p>
+
+## Here is some stats
+
+<p align="center">
+<img height="135px" src="https://github-readme-stats.vercel.app/api?username=Sylvain-Valvassori&show_icons=true&theme=react" alt="GitHub Streak">
+<img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvain-Valvassori&layout=compact&theme=react" alt="GitHub Streak">
+<img height="135px" src="https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF" alt="GitHub Streak">
+</p>
+
+
  
 <br>
 
