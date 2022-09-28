@@ -225,9 +225,12 @@
 <br>
 <br>
 
-# Here are some the languages & software I use 
+
 
 <table align="center">
+<tr >
+  <th colspan="2"><h3>Here are some the languages & software I use</h3></th>
+ </tr>
  <tr align="center">
      <th width="50%"> Languages </th>
      <th width="50%"> Softwares </th>
@@ -252,20 +255,19 @@
        <img height="50px" src="./icons/figma.png" alt="icon figma">
   </td>
  </tr>
-<table>
-
-
-## Here is some stats
-
-<p align="center">
+ <tr >
+  <th colspan="2"><h3>Here is some stats</h3></th>
+ </tr>
+ <tr >
+	<td colspan="2" align="center">
 <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Sylvain-Valvassori&show_icons=true&theme=react" alt="GitHub Streak">
 <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvain-Valvassori&layout=compact&theme=react" alt="GitHub Streak">
 <img height="135px" src="https://github-readme-streak-stats.herokuapp.com?user=Sylvain-Valvassori&theme=react&hide_border=true&ring=FFFFFF" alt="GitHub Streak">
-</p>
+	</td>
 
+</tr>
+<table>
 
- 
-<br>
 
 
  
