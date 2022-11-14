@@ -21,6 +21,25 @@
 
 
 ## These are my projects
+<details><summary>Professional project</summary>
+    <p>
+        <table align="center">
+            <tr align="center">
+                <th width="400px"> Name </th>
+                <th width="400px"> Link </th>
+                <th width="400px"> Last release </th>
+            </tr>
+            <tr align="center">
+                <td>Sanzaru Events</td>
+                <td>
+                    <a href="https://github.com/Sylvain-Valvassori/Sanzaru-Events">Repo</a> /
+                    <a href="https://sylvain-valvassori.github.io/Sanzaru-Events/">Site</a>
+                </td>
+                <td>06/08/2022</td>
+            </tr>
+        </table>
+    </p>
+</details> 
 <details><summary>Work in Progress</summary>
     <p>
         <table align="center">
