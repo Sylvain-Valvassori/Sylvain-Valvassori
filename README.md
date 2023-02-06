@@ -21,16 +21,27 @@
 
 
 ## These are my projects
-<details><summary>Professional project</summary>
+<details><summary>Lastest project</summary>
     <p>
         <table align="center">
             <tr align="center">
                 <th width="400px"> Name </th>
+		<th width="400px"> Type </th>
                 <th width="400px"> Link </th>
                 <th width="400px"> Last release </th>
             </tr>
+	    <tr align="center">
+                <td>Basic/Dept Clone</td>
+		<td>Personal</td>
+                <td>
+                    <a href="https://github.com/Sylvain-Valvassori/BASIC-DEPT-clone">Repo</a> /
+                    <a href="https://sylvain-valvassori.github.io/BASIC-DEPT-clone/">Site</a>
+                </td>
+                <td>03/02/2023</td>
+            </tr>
             <tr align="center">
                 <td>Sanzaru Events</td>
+		<td>Professional</td>
                 <td>
                     <a href="https://github.com/Sylvain-Valvassori/Sanzaru-Events">Repo</a> /
                     <a href="https://sylvain-valvassori.github.io/Sanzaru-Events/">Site</a>
@@ -40,25 +51,7 @@
         </table>
     </p>
 </details> 
-<details><summary>Work in Progress</summary>
-    <p>
-        <table align="center">
-            <tr align="center">
-                <th width="400px"> Name </th>
-                <th width="400px"> Link </th>
-                <th width="400px"> Last release </th>
-            </tr>
-            <tr align="center">
-                <td>🔥 Colibris</td>
-                <td>
-                    <a href="https://github.com/Sylvain-Valvassori/colibris">Repo</a> /
-                    <a href="https://sylvain-valvassori.github.io/colibris/">Site</a>
-                </td>
-                <td>11/05/2022</td>
-            </tr>
-        </table>
-    </p>
-</details> 
+
 <details><summary>React</summary>
     <p>
         <table align="center">
@@ -93,26 +86,8 @@
         </table>
     </p>
 </details>
-<details><summary>Javascript</summary>
-    <p>
-        <table align="center">
-            <tr align="center">
-                <th width="400px"> Name </th>
-                <th width="400px"> Link </th>
-                <th width="400px"> Last release </th>
-            </tr>
-            <tr align="center">
-                <td> Quote Random</td>
-                <td>
-                    <a href="https://github.com/Sylvain-Valvassori/Quote-random">Repo</a> /
-                    <a href="https://sylvain-valvassori.github.io/Quote-random/">Site</a>
-                </td>
-                <td>13/01/2022</td>
-            </tr>
-        </table>
-    </p>
-</details>
-<details><summary>Html & Sass & Canvas</summary>
+
+<details><summary>Html & Sass & Canvas & JS</summary>
 <p>
    <table align="center">
        <tr align="center">
@@ -127,6 +102,14 @@
                <a href="https://williamloey.github.io/Cookie-Clicker/">Site</a>
            </td>
            <td>20/10/2021</td>
+       	</tr>
+    	<tr align="center">
+           <td>🔥 Active collab clone</td>
+           <td>
+               <a href="https://github.com/Sylvain-Valvassori/Active-collab-clone">Repo</a> /
+               <a href="https://sylvain-valvassori.github.io/Active-collab-clone/">Site</a>
+           </td>
+           <td>28/08/2021</td>
        </tr>
        <tr align="center">
            <td> Pew Pew</td>
@@ -145,53 +128,21 @@
            <td>01/10/2021</td>
        </tr>
        <tr align="center">
-           <td> Bounce balls</td>
-           <td>
-               <a href="https://github.com/Sylvain-Valvassori/Bounce-Balls">Repo</a> /
-               <a href="https://sylvain-valvassori.github.io/Bounce-Balls/">Site</a>
-           </td>
-           <td>02/09/2021</td>
-       </tr>
-       <tr align="center">
            <td> Star Wars</td>
            <td>
                <a href="https://github.com/Sylvain-Valvassori/Star-Wars-crawl">Repo</a> /
                <a href="https://sylvain-valvassori.github.io/Star-Wars-crawl/">Site</a>
            </td>
            <td>08/09/2021</td>
-       </tr>
-       <tr align="center">
-           <td> Sass Card</td>
-           <td>
-               <a href="https://github.com/Sylvain-Valvassori/Sass-Card">Repo</a> /
-               <a href="https://sylvain-valvassori.github.io/Sass-Card/">Site</a>
-           </td>
-           <td>03/09/2021</td>
-       </tr>
-       <tr align="center">
-           <td> Play Sass</td>
-           <td>
-               <a href="https://github.com/Sylvain-Valvassori/Play-Sass">Repo</a> /
-               <a href="https://sylvain-valvassori.github.io/Play-Sass/">Site</a>
-           </td>
-           <td>02/09/2021</td>
-       </tr>
-       <tr align="center">
-           <td> My resume with css grid</td>
-           <td>
-               <a href="https://github.com/Sylvain-Valvassori/My-CV">Repo</a> /
-               <a href="https://sylvain-valvassori.github.io/My-CV/">Site</a>
-           </td>
-           <td>01/09/2021</td>
-       </tr>
-       <tr align="center">
-           <td>🔥 Active collab clone</td>
-           <td>
-               <a href="https://github.com/Sylvain-Valvassori/Active-collab-clone">Repo</a> /
-               <a href="https://sylvain-valvassori.github.io/Active-collab-clone/">Site</a>
-           </td>
-           <td>28/08/2021</td>
-       </tr>
+       	</tr>
+	<tr align="center">
+                <td> Quote Random</td>
+                <td>
+                    <a href="https://github.com/Sylvain-Valvassori/Quote-random">Repo</a> /
+                    <a href="https://sylvain-valvassori.github.io/Quote-random/">Site</a>
+                </td>
+                <td>13/01/2022</td>
+         </tr>
    </table>
 </p>
 </details>
